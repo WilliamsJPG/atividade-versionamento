@@ -1,0 +1,14 @@
+Relatório da Biblioteca
+
+Data: 2026-05-08
+Total de Livros: 3
+Total de Usuários: 2
+
+Livros:
+- Dom Casmurro - Machado de Assis - 1899
+- O Cortiço - Aluísio Azevedo - 1890
+- Memórias Póstumas de Brás Cubas - Machado de Assis - 1881
+
+Usuários:
+- João Silva
+- Maria Santos
